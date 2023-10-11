@@ -1,0 +1,468 @@
+{
+  "homepage": [
+    {
+      "id": 1,
+      "title": "Welcome to Our Website this is naik",
+      "subtitle": "Discover Amazing Things Here",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla odio id vestibulum. Vivamus quis urna ac libero lacinia congue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras nec arcu neque.",
+      "image": "https://example.com/home-image1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Our Features",
+      "subtitle": "What We Offer",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "image": "https://example.com/home-image2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Meet Our Team",
+      "subtitle": "The People Behind Our Success",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "https://example.com/home-image3.jpg"
+    }
+  ],
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Superman",
+      "alterego": "Clark Kent"
+    },
+    {
+      "id": 2,
+      "name": "Batman",
+      "alterego": "Bruce Wayne"
+    },
+    {
+      "id": 3,
+      "name": "Spider-Man",
+      "alterego": "Peter Parker"
+    },
+    {
+      "id": 4,
+      "name": "Wonder Woman",
+      "alterego": "Diana Prince"
+    },
+    {
+      "id": 5,
+      "name": "Iron Man",
+      "alterego": "Tony Stark"
+    },
+    {
+      "id": 6,
+      "name": "The Flash",
+      "alterego": "Barry Allen"
+    },
+    {
+      "id": 7,
+      "name": "Black Widow",
+      "alterego": "Natasha Romanoff"
+    },
+    {
+      "id": 8,
+      "name": "Captain America",
+      "alterego": "Steve Rogers"
+    },
+    {
+      "id": 9,
+      "name": "Thor",
+      "alterego": "Thor Odinson"
+    },
+    {
+      "id": 10,
+      "name": "Hulk",
+      "alterego": "Bruce Banner"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Elegant Leather Wallet",
+      "description": "A stylish leather wallet with multiple card slots and a coin pocket.",
+      "price": "$49.99",
+      "material": "Genuine leather",
+      "availability": "In Stock",
+      "color": "Brown",
+      "brand": "Luxury Leather Co.",
+      "rating": 4.8,
+      "reviews": 120
+    },
+    {
+      "id": 2,
+      "name": "Smartphone Stand",
+      "description": "A durable smartphone stand with adjustable viewing angles.",
+      "price": "$19.99",
+      "material": "Aluminum alloy",
+      "availability": "In Stock",
+      "color": "Silver",
+      "brand": "Tech Accessories Inc.",
+      "rating": 4.5,
+      "reviews": 95
+    },
+    {
+      "id": 3,
+      "name": "Designer Sunglasses",
+      "description": "Trendy designer sunglasses with UV protection and a stylish frame.",
+      "price": "$79.99",
+      "material": "Polycarbonate, Metal",
+      "availability": "In Stock",
+      "color": "Black/Gold",
+      "brand": "Fashion Shades",
+      "rating": 4.9,
+      "reviews": 150
+    },
+    {
+      "id": 4,
+      "name": "Wireless Bluetooth Headphones",
+      "description": "High-quality wireless headphones with noise-cancellation technology.",
+      "price": "$129.99",
+      "material": "Plastic, Metal",
+      "availability": "In Stock",
+      "color": "Black",
+      "brand": "AudioTech",
+      "rating": 4.7,
+      "reviews": 110
+    },
+    {
+      "id": 5,
+      "name": "Cotton Blend T-Shirt",
+      "description": "Comfortable cotton blend t-shirt available in various colors and sizes.",
+      "price": "$14.99",
+      "material": "Cotton, Polyester",
+      "availability": "In Stock",
+      "color": "Navy Blue",
+      "brand": "CasualWear Co.",
+      "rating": 4.2,
+      "reviews": 85
+    },
+    {
+      "id": 6,
+      "name": "Stainless Steel Water Bottle",
+      "description": "Durable stainless steel water bottle with a leak-proof design.",
+      "price": "$24.99",
+      "material": "Stainless Steel",
+      "availability": "In Stock",
+      "color": "Silver",
+      "brand": "HydratePro",
+      "rating": 4.6,
+      "reviews": 105
+    },
+    {
+      "id": 7,
+      "name": "Professional DSLR Camera",
+      "description": "High-performance DSLR camera with advanced features for photography enthusiasts.",
+      "price": "$899.99",
+      "material": "Plastic, Metal",
+      "availability": "In Stock",
+      "color": "Black",
+      "brand": "PhotoMaster",
+      "rating": 4.9,
+      "reviews": 180
+    },
+    {
+      "id": 8,
+      "name": "Leather Office Chair",
+      "description": "Luxurious leather office chair with ergonomic design and adjustable features.",
+      "price": "$299.99",
+      "material": "Genuine Leather, Metal",
+      "availability": "In Stock",
+      "color": "Brown",
+      "brand": "ErgoComfort",
+      "rating": 4.8,
+      "reviews": 125
+    },
+    {
+      "id": 9,
+      "name": "Digital Drawing Tablet",
+      "description": "A digital drawing tablet with a high-resolution screen and pressure-sensitive pen.",
+      "price": "$349.99",
+      "material": "Plastic, Glass",
+      "availability": "In Stock",
+      "color": "Black",
+      "brand": "ArtTech",
+      "rating": 4.7,
+      "reviews": 105
+    },
+    {
+      "id": 10,
+      "name": "Gourmet Coffee Sampler",
+      "description": "A collection of premium gourmet coffee beans from around the world.",
+      "price": "$39.99",
+      "material": "Coffee Beans",
+      "availability": "In Stock",
+      "color": "Assorted",
+      "brand": "Coffee Connoisseur",
+      "rating": 4.6,
+      "reviews": 95
+    }
+  ],
+  "indiansuperheroes": [
+    {
+      "id": 1,
+      "name": "Shaktimaan",
+      "alterego": "Pandit Gangadhar Vidyadhar Mayadhar Omkarnath Shastri"
+    },
+    {
+      "id": 2,
+      "name": "Krrish",
+      "alterego": "Krishna Mehra"
+    },
+    {
+      "id": 3,
+      "name": "Bhagat Singh",
+      "alterego": "N/A (Real historical figure)"
+    },
+    {
+      "id": 4,
+      "name": "Chandragupta Maurya",
+      "alterego": "N/A (Real historical figure)"
+    },
+    {
+      "id": 5,
+      "name": "Bhokal",
+      "alterego": "Alop"
+    },
+    {
+      "id": 6,
+      "name": "Baahubali",
+      "alterego": "Sivudu (Young Baahubali) and Amarendra Baahubali (Adult Baahubali)"
+    },
+    {
+      "id": 7,
+      "name": "G.One",
+      "alterego": "Shekhar Subramanium"
+    },
+    {
+      "id": 8,
+      "name": "Bhagat Bhagwan",
+      "alterego": "N/A (Character from the Chacha Chaudhary comic series)"
+    },
+    {
+      "id": 9,
+      "name": "Nagraj",
+      "alterego": "Raj"
+    },
+    {
+      "id": 10,
+      "name": "Super Commando Dhruva",
+      "alterego": "Dhruva"
+    }
+  ],
+  "countries": [
+    {
+      "id": 1,
+      "name": "United States",
+      "capital": "Washington, D.C.",
+      "population": 331002651,
+      "area": 9372610,
+      "currency": "United States Dollar (USD)",
+      "language": "English",
+      "flag": "https://restcountries.com/v3/flags/us.png"
+    },
+    {
+      "id": 2,
+      "name": "India",
+      "capital": "New Delhi",
+      "population": 1380004385,
+      "area": 3287590,
+      "currency": "Indian Rupee (INR)",
+      "language": "Hindi, English",
+      "flag": "https://restcountries.com/v3/flags/in.png"
+    },
+    {
+      "id": 3,
+      "name": "China",
+      "capital": "Beijing",
+      "population": 1444216107,
+      "area": 9596960,
+      "currency": "Renminbi (CNY)",
+      "language": "Mandarin",
+      "flag": "https://restcountries.com/v3/flags/cn.png"
+    },
+    {
+      "id": 4,
+      "name": "Brazil",
+      "capital": "Brasília",
+      "population": 212559417,
+      "area": 8515767,
+      "currency": "Brazilian Real (BRL)",
+      "language": "Portuguese",
+      "flag": "https://restcountries.com/v3/flags/br.png"
+    },
+    {
+      "id": 5,
+      "name": "United Kingdom",
+      "capital": "London",
+      "population": 67886011,
+      "area": 242900,
+      "currency": "British Pound Sterling (GBP)",
+      "language": "English",
+      "flag": "https://restcountries.com/v3/flags/gb.png"
+    },
+    {
+      "id": 6,
+      "name": "Canada",
+      "capital": "Ottawa",
+      "population": 37742154,
+      "area": 9984670,
+      "currency": "Canadian Dollar (CAD)",
+      "language": "English, French",
+      "flag": "https://restcountries.com/v3/flags/ca.png"
+    },
+    {
+      "id": 7,
+      "name": "Australia",
+      "capital": "Canberra",
+      "population": 25499884,
+      "area": 7692024,
+      "currency": "Australian Dollar (AUD)",
+      "language": "English",
+      "flag": "https://restcountries.com/v3/flags/au.png"
+    },
+    {
+      "id": 8,
+      "name": "Japan",
+      "capital": "Tokyo",
+      "population": 126476461,
+      "area": 377975,
+      "currency": "Japanese Yen (JPY)",
+      "language": "Japanese",
+      "flag": "https://restcountries.com/v3/flags/jp.png"
+    },
+    {
+      "id": 9,
+      "name": "Germany",
+      "capital": "Berlin",
+      "population": 83783942,
+      "area": 357022,
+      "currency": "Euro (EUR)",
+      "language": "German",
+      "flag": "https://restcountries.com/v3/flags/de.png"
+    },
+    {
+      "id": 10,
+      "name": "South Africa",
+      "capital": "Pretoria",
+      "population": 59308690,
+      "area": 1221037,
+      "currency": "South African Rand (ZAR)",
+      "language": "Afrikaans, English, Zulu",
+      "flag": "https://restcountries.com/v3/flags/za.png"
+    }
+  ],
+  "users": [
+    {
+      "email": "ramavath@gmail.com",
+      "channelId": "codevolution"
+    },
+    {
+      "email": "naik@gmail.com",
+      "channelId": "naikTech"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codevolution",
+      "playlist": [
+        "react",
+        "javascript",
+        "html",
+        "css"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    {
+      "id": 2,
+      "name": "Green",
+      "hex": "#00FF00"
+    },
+    {
+      "id": 3,
+      "name": "Blue",
+      "hex": "#0000FF"
+    },
+    {
+      "id": 4,
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    {
+      "id": 5,
+      "name": "Cyan",
+      "hex": "#00FFFF"
+    },
+    {
+      "id": 6,
+      "name": "Magenta",
+      "hex": "#FF00FF"
+    },
+    {
+      "id": 7,
+      "name": "Orange",
+      "hex": "#FFA500"
+    },
+    {
+      "id": 8,
+      "name": "Purple",
+      "hex": "#800080"
+    },
+    {
+      "id": 9,
+      "name": "Pink",
+      "hex": "#FFC0CB"
+    },
+    {
+      "id": 10,
+      "name": "Brown",
+      "hex": "#A52A2A"
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "vijay"
+    },
+    {
+      "name": "naik",
+      "id": 2
+    },
+    {
+      "name": "wertyui",
+      "id": 3
+    },
+    {
+      "name": "bbb",
+      "id": 8
+    },
+    {
+      "name": "naiknn",
+      "id": 9
+    },
+    {
+      "name": "qqq",
+      "id": 10
+    },
+    {
+      "name": "sdfgh",
+      "id": 11
+    },
+    {
+      "name": "dfgh",
+      "id": 12
+    },
+    {
+      "name": "yyy",
+      "id": 13
+    },
+    {
+      "name": "fghj",
+      "id": 14
+    }
+  ]
+}
